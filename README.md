@@ -8,14 +8,13 @@
 <td>
 
 ```
-kshitij@kjsce
+Kshitij@Kumar
 -------------
-OS: ................................... Windows
+OS: ... macOS, Linux, Windows, iOS, Android
 Host: ........................... Kshitij Kumar
-Kernel: .. B.Tech CE (Cyber Security & Forensics)
+Kernel: .. B.Tech COMPUTER ENGINEERING & HONOURS IN Cyber Security & Forensics
 Role: ............... ML Research Intern, KJSCE
-Org: .................. SMLRA - Operations Team
-IDE: ................................... VSCode
+IDE: ... IntelliJ IDEA, VSCode, Antigravity,
 
 Languages: ..................... English, Hindi
 
