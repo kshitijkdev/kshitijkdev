@@ -17,18 +17,10 @@ Role: ............... ML Research Intern, KJSCE
 Org: .................. SMLRA - Operations Team
 IDE: ................................... VSCode
 
-Languages.Programming: .. Python, C++, Java, JS
-Languages.Computer: ..... HTML, CSS, JSON, YAML
-Languages.Real: ................ English, Hindi
-
-- Research -
-Dataset: .................... AgriSense DataHub
-Venue: .......................... IEEE DataPort
-DOI: ....................... 10.21227/3z1c-6k42
+Languages: ..................... English, Hindi
 
 - Contact -
 Email: ................ apply.kshitij@gmail.com
-GitHub: ........................... kshitijkdev
 LinkedIn: ..................... kshitij-kumar25
 ```
 
@@ -56,7 +48,7 @@ LinkedIn: ..................... kshitij-kumar25
 <p>
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NUMPY-17313F?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SCIKIT-LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/TENSORFLOW-F57C28?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/PYTORCH-E0553B?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/XGBOOST-2F6CC9?style=for-the-badge" alt="XGBoost">
